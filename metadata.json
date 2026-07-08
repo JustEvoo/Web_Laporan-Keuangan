@@ -1,0 +1,6 @@
+{
+  "name": "IndoLedger Modern ERP",
+  "description": "A professional, monochrome, and clean web-based ERP and accounting application with General Journal (Jurnal Umum) management and dynamic financial dashboard (Dashboard Akuntansi).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
